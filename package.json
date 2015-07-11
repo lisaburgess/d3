@@ -1,0 +1,30 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "D3 Example",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "gulp-sass": "^2.0.3",
+    "jshint-stylish": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaburgess/d3.git"
+  },
+  "author": "Lisa Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisaburgess/d3/issues"
+  },
+  "homepage": "https://github.com/lisaburgess/d3#readme"
+}
